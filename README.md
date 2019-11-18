@@ -1,4 +1,4 @@
-![](C:\Users\Bhinder\Documents\integrations-github-logo.png)
+![](/var/www/html/sample-java-project/src/images/integrations-github-logo.png)
 
 
 
